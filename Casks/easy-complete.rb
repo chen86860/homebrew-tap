@@ -2,8 +2,7 @@ cask "easy-complete" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/chen86860/easy-complete/releases/latest/download/Easy-Complete-arm64.dmg",
-      verified: "github.com/chen86860/easy-complete/"
+  url "https://github.com/chen86860/easy-complete/releases/latest/download/Easy-Complete-arm64.dmg"
   name "Easy Complete"
   desc "IDE-style inline autocomplete for terminals"
   homepage "https://easy-complete.emmmm.dev/"
