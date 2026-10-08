@@ -5,8 +5,7 @@ cask "dropline" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/chen86860/dropline/releases/latest/download/Dropline.dmg",
-      verified: "github.com/chen86860/dropline/"
+  url "https://github.com/chen86860/dropline/releases/latest/download/Dropline.dmg"
   name "Dropline"
   desc "Uploads any file to your own host and copies the link"
   homepage "https://dropline.emmmm.dev/"
