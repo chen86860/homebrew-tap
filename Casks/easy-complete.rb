@@ -1,6 +1,6 @@
 cask "easy-complete" do
-  version "2.3.8"
-  sha256 "3ee9ba503aad403cf94bf64ea0824cb1642677b1c3240f84a853dd02e2e23d1d"
+  version "2.3.9"
+  sha256 "3f3bf4979e76a6c576ec3929021110088eb78382a032ab3546a6c657a278edd4"
 
   url "https://github.com/chen86860/easy-complete/releases/download/v#{version}/Easy-Complete-#{version}-arm64.dmg"
   name "Easy Complete"
