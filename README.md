@@ -10,7 +10,7 @@ brew tap chen86860/tap
 | :-: | --- | --- | --- |
 | <img src=".github/media/easy-kap-icon.png" width="40" alt=""> | [Easy Kap](#easy-kap) | Native screen recorder inspired by Kap | `brew install --cask chen86860/tap/easy-kap` |
 | <img src=".github/media/dropline-icon.png" width="40" alt=""> | [Dropline](#dropline) | Uploads any file to your own host and copies the link | `brew install --cask chen86860/tap/dropline` |
-| <img src=".github/media/easy-complete-icon.png" width="40" alt=""> | [Easy Complete](#easy-complete) | IDE-style inline autocomplete for terminals | `brew install --cask chen86860/tap/easy-complete` |
+| <img src=".github/media/easy-complete-icon.png" width="40" alt=""> | [Easy Complete](#easy-complete) | IDE-style inline autocomplete for terminals | `brew install chen86860/tap/easy-complete` |
 
 ## Easy Kap
 
@@ -69,7 +69,7 @@ app for macOS terminals.
 </p>
 
 ```bash
-brew install --cask chen86860/tap/easy-complete
+brew install chen86860/tap/easy-complete
 ```
 
 Easy Complete requires macOS 12 Monterey or later on Apple Silicon.
