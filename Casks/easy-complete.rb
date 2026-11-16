@@ -1,6 +1,6 @@
 cask "easy-complete" do
-  version "2.7.0"
-  sha256 "f42ed61b52a6ed3e0429ea48fd722271f6d7ddca296116269da368ad5c76b192"
+  version "2.8.0"
+  sha256 "eca3ad84a54f387ee2ae362afb0c70a4c26013021c957671c5eae927eeb0186b"
 
   url "https://github.com/chen86860/easy-complete/releases/download/v#{version}/Easy-Complete-#{version}-arm64.dmg"
   name "Easy Complete"
@@ -14,7 +14,7 @@ cask "easy-complete" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: :monterey
+  depends_on macos: :ventura
 
   app "Easy Complete.app"
 
